@@ -2,7 +2,6 @@
 /home/darix/Documents/SampleEmployeesManagementSystem/bin/Debug/net10.0/appsettings.json
 /home/darix/Documents/SampleEmployeesManagementSystem/bin/Debug/net10.0/SampleEmployeesManagementSystem.staticwebassets.runtime.json
 /home/darix/Documents/SampleEmployeesManagementSystem/bin/Debug/net10.0/SampleEmployeesManagementSystem.staticwebassets.endpoints.json
-/home/darix/Documents/SampleEmployeesManagementSystem/bin/Debug/net10.0/app.db
 /home/darix/Documents/SampleEmployeesManagementSystem/bin/Debug/net10.0/SampleEmployeesManagementSystem
 /home/darix/Documents/SampleEmployeesManagementSystem/bin/Debug/net10.0/SampleEmployeesManagementSystem.deps.json
 /home/darix/Documents/SampleEmployeesManagementSystem/bin/Debug/net10.0/SampleEmployeesManagementSystem.runtimeconfig.json
@@ -487,3 +486,4 @@
 /home/darix/Documents/SampleEmployeesManagementSystem/obj/Debug/net10.0/compressed/e4cved1s1p-{0}-e4wa1aq2yc-e4wa1aq2yc.gz
 /home/darix/Documents/SampleEmployeesManagementSystem/obj/Debug/net10.0/compressed/qpcrapo1v8-{0}-g45vneobtz-g45vneobtz.gz
 /home/darix/Documents/SampleEmployeesManagementSystem/obj/Debug/net10.0/compressed/6gwsdpv20q-{0}-gk9q6ke24a-gk9q6ke24a.gz
+/home/darix/Documents/SampleEmployeesManagementSystem/obj/Debug/net10.0/SampleEmployeesManagementSystem.sourcelink.json
