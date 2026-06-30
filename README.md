@@ -255,10 +255,18 @@ or `http://localhost:5186/` for HTTPS.
 
 | Name | Role |
 |---|---|
-| Darix SAMANI SIEWE | Student at ENSET DOUALA |
+| Darix SAMANI SIEWE  | Student at ENSET DOUALA (II4)|
 
 > Project submitted for the **Normal Session** — Academic Year 2025/2026  
 > Institution: **ENSET de Douala, Université de Douala**
+
+---
+
+## 🎥 Video Demonstration
+
+Get a quick overview of how **Employee Management System** works:
+
+[Screencast from 2026-03-25 22-23-49.webm](./video%20de%20fonctionnement.webm)
 
 ---
 
