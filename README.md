@@ -266,7 +266,8 @@ or `http://localhost:5186/` for HTTPS.
 
 Get a quick overview of how **Employee Management System** works:
 
-[Video_demonstration](./video%20de%20fonctionnement.webm)
+[video de fonctionnement.webm](https://github.com/user-attachments/assets/3c4afd2c-a48e-4593-814a-1a8266a88cd9)
+
 
 ---
 
